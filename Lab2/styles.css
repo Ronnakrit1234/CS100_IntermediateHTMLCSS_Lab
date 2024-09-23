@@ -27,8 +27,13 @@ header p {
 /* Navigation Styles */
 nav {
     background-color: #ffa41b;
-    padding: 15px;
+    
     text-align: center;
+
+    width: 20%;
+    float: left;
+    height: 100vh;
+    
 }
 
 nav ul {
@@ -38,8 +43,8 @@ nav ul {
 }
 
 nav ul li {
-    display: inline-block;
-    margin: 0 15px;
+    display: block;
+    margin: 20px 0;
 }
 
 nav ul li a {
