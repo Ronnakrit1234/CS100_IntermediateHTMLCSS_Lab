@@ -12,6 +12,8 @@ header {
     background-color: #ffe066;
     padding: 20px;
     text-align: center;
+    
+    
 }
 
 header h1 {
@@ -33,7 +35,10 @@ nav {
     width: 20%;
     float: left;
     height: 100vh;
+    position: sticky;
+    top: 0;
     
+
 }
 
 nav ul {
